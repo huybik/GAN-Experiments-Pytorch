@@ -5,3 +5,9 @@
 <img src='images/samples.jpg' width=400>
 </p>
 <p align = "center"> The progress of Wasserstein GANS </p>
+
+
+**Instruction**
+- Download CelebA dataset (https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and place it in data folder 
+- pip install -r requirements.txt
+- Run notebook cell by cell
