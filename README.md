@@ -9,5 +9,4 @@
 
 **Instruction**
 - Download CelebA dataset (https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and place it in data folder 
-- pip install -r requirements.txt
 - Run notebook cell by cell
