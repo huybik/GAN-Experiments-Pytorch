@@ -1,5 +1,5 @@
 # GAN-Pytorch
-**GAN implement in Pytorch, illustrated in Jupyter Notebook**
+**These GAN algorithms implemented in Pytorch, illustrated in Jupyter Notebook**
 - Wasserstein GAN
 - Progressive GAN
 
