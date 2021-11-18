@@ -1,6 +1,7 @@
-# Wasserstein-GAN-Pytorch
+# GAN-Pytorch
 **GAN implement in Pytorch, illustrated in Jupyter Notebook**
-
+- Wasserstein GAN
+- Progressive
 The purpose if this notebook is you can go from block to block, undertand how GAN is implemented and how it operates, changing on the way you see fit. So it more of education than production value.
 
 <p align = "center"> 
